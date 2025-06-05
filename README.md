@@ -32,7 +32,8 @@ Visit the [MicroPython ST7735 Repository](https://github.com/boochow/MicroPython
 
 1. `sysfont.py`
 
-Visit the [GuyCarver MicroPython Repository](https://github.com/GuyCarver/MicroPython/tree/master/lib) to download this file.
+---Visit the [GuyCarver MicroPython Repository](https://github.com/GuyCarver/MicroPython/tree/master/lib) to download this file.---
+Visit the [cheungbx/st7735-esp8266-micropython Repository](https://github.com/cheungbx/st7735-esp8266-micropython/blob/master/sysfont.py) to download this file.
 
 ## Identifying the Default SPI Pins
 
